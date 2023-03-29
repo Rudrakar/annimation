@@ -1,2 +1,2 @@
 # annimation
-I havvee used html and css only for this project
+I have used html and css only for this project.
